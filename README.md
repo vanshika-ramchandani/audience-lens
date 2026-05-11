@@ -1,4 +1,5 @@
 ## 🚀 Live Demo
+https://audience-lens-nckdhnkm6fgnu9ryzbtrzf.streamlit.app/
 
 
 ## 🔍 AudienceLens
@@ -145,6 +146,11 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 ---
 
 ## 📊 Example Output
+<img width="1912" height="857" alt="Screenshot 2026-05-11 125948" src="https://github.com/user-attachments/assets/49d28a2e-187f-4663-b0f4-6c318a7338af" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="1916" height="875" alt="Screenshot 2026-05-11 125914" src="https://github.com/user-attachments/assets/e292fe0c-0a70-4260-897a-f348d9844aef" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="1914" height="862" alt="Screenshot 2026-05-11 125935" src="https://github.com/user-attachments/assets/479a34e2-b92c-42b2-8b73-d4247b586037" />
 
 
 ### Overview Metrics
